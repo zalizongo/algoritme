@@ -1,0 +1,6 @@
+algorithme orde alpgabetique
+type : chaine de caractere
+variable : a,b,c 
+       debut
+        ecrire("entrer un nom 1)
+        lire(nom1  )

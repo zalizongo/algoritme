@@ -1,0 +1,17 @@
+algorithme : nombre;
+type : reel
+variable x
+      debut
+         ecrire("entrer un nombre)
+         lire(x)
+
+        si x > 0 alors
+               ecrire(le nombre est positive)
+        
+
+        sinon
+        
+              ecrire(le nombre est negative)
+        fin si
+        
+    fin

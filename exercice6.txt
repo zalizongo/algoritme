@@ -1,0 +1,29 @@
+algo : nombre
+variable 
+ x y : reel
+    debut
+      ecrire("rentrer deux nombre)
+      lire (x)
+      lire (y)
+si x < 0 et y < 0 alors
+        ecrire("le produit des nombre est negative)
+si x > 0 et y > 0 alors 
+       ecrire ("le produit des nombre est positive)
+ si a ==0 et y== 0 alors
+        ecrire ("le produit des nombre est nul)
+si x < 0 et y > 0 alors  
+       ecrire("le produit est negative)
+sinon 
+     ecrire("le produit est positive)
+fin si
+fin si 
+fin si
+fin si
+
+
+fin
+
+
+
+     
+         

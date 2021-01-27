@@ -1,0 +1,12 @@
+algo :age des enfant
+type entier
+va : age
+
+    debut
+       ("veuiller entrer l'age de l'enfant)
+              lire(age)
+              si age < = 6 ou age > = 7 alors
+                   ecrire (bienvenur le petit poussin)
+              si age < = 8 ou age > = 9 et 
+                 age < = 10 ou age > = 11 alors
+                 ecrire(salut pupul)
